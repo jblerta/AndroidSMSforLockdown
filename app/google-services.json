@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329221081994",
+    "project_id": "smsforlockdown",
+    "storage_bucket": "smsforlockdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329221081994:android:c1d5e576db1695139c9673",
+        "android_client_info": {
+          "package_name": "com.example.smsforlockdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329221081994-2rs38rqbvbrmdv5667pn8uaq8sfe4k40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9sjfWmm_1yogzwltIMLB61zC9U5yQIG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329221081994-2rs38rqbvbrmdv5667pn8uaq8sfe4k40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
