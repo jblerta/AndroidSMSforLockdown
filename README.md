@@ -23,4 +23,5 @@ Tools used for building this application:
 ![](images/20210305_032610.jpg)
 
 
-<b>Select one of the users or ad new one
+  
+  ![](images/20210305_032649.jpg)
