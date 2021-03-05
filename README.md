@@ -25,3 +25,8 @@ Tools used for building this application:
 
   
   ![](images/20210305_032649.jpg)
+  
+  
+  <b>SMS will be sent based on the button klicked 
+  
+  ![](images/20210305_032628.jpg)
